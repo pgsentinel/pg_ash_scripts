@@ -130,3 +130,7 @@ postgres@pgu:~$ psql -f pg_ash_wait_chain.sql
  3%              |      33 | pid:1913 (Lock : transactionid) ->pid:1890
 (3 rows)
 ```
+
+Short video
+-------------
+[![Alt text](https://github.com/pgsentinel/pg_ash_scripts/images/video_pg_ash_scripts.PNG)](https://www.youtube.com/watch?v=WVKzKjlK75U)
