@@ -133,4 +133,4 @@ postgres@pgu:~$ psql -f pg_ash_wait_chain.sql
 
 Short video
 -------------
-[![Alt text](https://github.com/pgsentinel/pg_ash_scripts/images/video_pg_ash_scripts.PNG)](https://www.youtube.com/watch?v=WVKzKjlK75U)
+[![Alt text](https://raw.githubusercontent.com/pgsentinel/pg_ash_scripts/master/images/video_pg_ash_scripts.PNG)](https://www.youtube.com/watch?v=WVKzKjlK75U)
